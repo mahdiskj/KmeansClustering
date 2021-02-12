@@ -1,4 +1,4 @@
-# KmeasClustering
+# KmeansClustering
 
 -----------------------------------------------------------------------------------------------
 This repo contains a very simple model just to practice!
